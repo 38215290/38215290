@@ -1,6 +1,6 @@
 - 👋 Hola soy Daniela Florencia
 - 👀 Estoy interesada en todas las nuevas herramientas que se han descubierto tanto en python , como en mySQL, power BI, Hadoop.
-- 🌱 Actualmenteme me encuentro  aprendiendo de las nuevas tecnologias que ofrece machine learning junto a Python
+- 🌱 Actualmenteme me encuentro  aprendiendo las nuevas tecnologias que ofrece machine learning junto a Python
 - 💞️ Estoy en constante proceso de aprendizaje ya que las nuevas tendencias se actualizan dia a dia
 - 📫 Puedes contactarme a : flor.dani.gutierrez.006@gmail.com
 <!---
