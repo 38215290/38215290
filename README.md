@@ -9,7 +9,10 @@
  - 📫 Puedes contactarme a :
   
  ![gmail_image](https://github.com/38215290/38215290/assets/127343400/ad4aefb4-a37c-4237-ba60-7452c7c92060)
- flor.dani.gutierrez.006@gmail.com
+ flor.dani.gutierrez.006@gmail.com  
+
+
+ 
 ![gmail](https://github.com/38215290/38215290/assets/127343400/66e790db-93a4-4944-8790-109a3d15dcf0)
 https://www.linkedin.com/in/daniela-gutierrez-107820237/
 
